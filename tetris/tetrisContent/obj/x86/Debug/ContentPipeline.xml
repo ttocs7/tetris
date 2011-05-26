@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blocksprite.tga</Source>
+      <Name>blocksprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\blocksprite.xnb</Output>
+      <Time>2011-05-25T02:03:43.0439119-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blanksprite.png</Source>
+      <Name>blanksprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\blanksprite.xnb</Output>
+      <Time>2011-05-25T02:03:43.0389116-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shadowsprite.png</Source>
+      <Name>shadowsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\shadowsprite.xnb</Output>
+      <Time>2011-05-25T02:03:43.1179161-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menusprite.png</Source>
+      <Name>menusprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\menusprite.xnb</Output>
+      <Time>2011-05-25T02:03:43.045912-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2011-05-25T02:03:43.044912-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\dev\ttocs_Scott-PC\tetris\tetris\tetrisContent\</RootDirectory>
+      <LoggerRootDirectory>F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\dev\ttocs_Scott-PC\tetris\tetris\tetrisContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-08T03:57:53.2492812-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

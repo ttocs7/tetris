@@ -1,0 +1,43 @@
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\bin\x86\Debug\Content\blocksprite.xnb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\bin\x86\Debug\tetris.exe
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\bin\x86\Debug\tetris.pdb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\tetris.exe
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\tetris.pdb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\bin\x86\Debug\Content\font.xnb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\bin\x86\Debug\tetris.exe.manifest
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\bin\x86\Debug\tetris.application
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\tetris.exe.manifest
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\obj\x86\Debug\tetris.application
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\tetris\tetris\tetris\bin\x86\Debug\Content\blanksprite.xnb
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\blocksprite.xnb
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\blanksprite.xnb
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\font.xnb
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\tetris.exe.manifest
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\tetris.application
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\tetris.exe
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\tetris.pdb
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\obj\x86\Debug\tetris.exe.manifest
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\obj\x86\Debug\tetris.application
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\obj\x86\Debug\tetris.exe
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\obj\x86\Debug\tetris.pdb
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\Content\blocksprite.xnb
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\Content\blanksprite.xnb
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\Content\font.xnb
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\tetris.exe.manifest
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\tetris.application
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\tetris.exe
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\tetris.pdb
+C:\dev\tetris\tetris\tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\tetris\tetris\tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\dev\tetris\tetris\tetris\obj\x86\Debug\tetris.exe.manifest
+C:\dev\tetris\tetris\tetris\obj\x86\Debug\tetris.application
+C:\dev\tetris\tetris\tetris\obj\x86\Debug\tetris.exe
+C:\dev\tetris\tetris\tetris\obj\x86\Debug\tetris.pdb
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\shadowsprite.xnb
+F:\dev\ttocs_Scott-PC\tetris\tetris\tetris\bin\x86\Debug\Content\menusprite.xnb
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\Content\shadowsprite.xnb
+C:\dev\tetris\tetris\tetris\bin\x86\Debug\Content\menusprite.xnb

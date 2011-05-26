@@ -1,0 +1,5 @@
+Content\blocksprite.xnb
+Content\blanksprite.xnb
+Content\shadowsprite.xnb
+Content\menusprite.xnb
+Content\font.xnb
