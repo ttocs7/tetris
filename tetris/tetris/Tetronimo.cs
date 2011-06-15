@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Tetronimo.cs
+//Written by Scott Porcaro, 2011
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
